@@ -1,0 +1,6 @@
+{
+  "appTitle": "dicegame",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
